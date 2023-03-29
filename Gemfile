@@ -3,5 +3,5 @@
 source "https://rubygems.org"
 
 group :development, :test do
-  gem "rspec-rails"
+  gem "rspec"
 end
